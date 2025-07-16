@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    background-color:#1F2937;
+
+}
+
+.colored{
+    color:#34D399;
+}
+p{
+    width: 372px;
+    height: 28px;
+    padding-top: 2px;
+    padding-left: 52px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #D5D4D8;
+
+}
+#title{
+    width: 354px;
+    height: 80px;
+    padding-top: 115px;
+    padding-left: 52px;
+    font-family: Karla;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -2.5%;
+    font-weight: bold;
+    color: white;
+    
+}
+#btn{
+    width: 191px;
+    height: 42px;
+    margin-top: 20px;
+    margin-left: 52px;
+    border-radius: 6px;
+    padding-top: 9px;
+    padding-right: 17px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    gap: 12px;
+    background-color: #10B981;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+    color: #FFFFFF;
+    
+}
+
+
+.cube-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    color: #55F991;
+    text-align: center;
+    margin-top:20px;
+ }
+ .cube{
+    background-color:#273549;
+    width: 350px;
+    height: 40px;
+    border-radius: 16px;
+    padding-top: 20px;
+}
+
+.password{
+    font-family: Inter;
+    color: #55F991;
+}
+
+.password-box{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
